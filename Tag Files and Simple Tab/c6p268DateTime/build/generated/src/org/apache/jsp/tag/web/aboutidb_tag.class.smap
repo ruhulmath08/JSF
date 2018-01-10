@@ -1,0 +1,14 @@
+SMAP
+aboutidb_tag.java
+JSP
+*S JSP
+*F
++ 0 aboutidb.tag
+WEB-INF/tags/aboutidb.tag
+*L
+5,5:58
+9,4:62
+12:65
+13:66,3
+14:69
+*E
